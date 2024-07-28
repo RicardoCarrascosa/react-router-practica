@@ -1,0 +1,10 @@
+header {
+  background-color: azure;
+  height: 3rem;
+}
+
+header > nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
